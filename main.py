@@ -4,7 +4,7 @@ import sqlite3
 import time
 from flask import Flask, request
 
-TOKEN = "8638161881:AAHRFk9sVr7c8f7xtnUyJF38sg0ODrbWW94"
+TOKEN = "8386260790:AAGxuTqPfiv6swxGlZ4iZvRzTei4ALFCYP0"
 OWNER_ID = 1331356868
 
 bot = telebot.TeleBot(TOKEN, parse_mode="HTML")
